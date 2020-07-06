@@ -4,12 +4,12 @@
         "details": [
 	    {
                 "appID": "9C43Q4RW99.com.wjzp.peoplerecruitment",
-                "paths": [ "*"]
+                "paths": [ "/peoplerecruitment/*"]
             },
 
 {
                 "appID": "9C43Q4RW99.com.wjzp.peoplerecruitment.beta",
-                "paths": [ "*"]
+                "paths": [ "/peoplerecruitment.beta/*"]
             },
 {
                 "appID": "YTK3DAW8FR.com.tvs.metoo",
